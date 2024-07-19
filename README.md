@@ -1,2 +1,2 @@
-# Gaze-player
-The project focuses on correcting gaze correction in live video communication using a warping-based convolutional neural network (CNN).
+# Gaze_Player
+Implementation of various activities using gaze by warping-based convolutional neural network in live video communication and python libraries.
